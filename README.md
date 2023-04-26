@@ -1,7 +1,10 @@
-## Hi, I’m as1-2-bidama!!
+## はろー！ 私はas1-2-bidamaです！
+最近プロ研に入りプログラミングを一から勉強している途中です！<p>
+趣味は**小説**を読むこと！ジャンルは様々ですが、最近は純愛が~~美味しい~~面白いと感じ始めています！<p>
+特技は特にないです！<p>
+勉強中のプログラミングは現在Gitだけですね！
 
-### LET ME TELL YOU ABOUT ME!!
-
-* I like reading novels.
-* I swim well...
-* I don't use any program, but I`m studying git!
+  ***
+  
+***(っ’ヮ’c)ウゥッヒョオアアァ！！***
+  ***
